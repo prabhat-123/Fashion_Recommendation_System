@@ -14,22 +14,21 @@ This is a Fashion Recommendation System that leverages image similarity search t
 To run the Fashion Recommendation System, ensure that you have the following dependencies installed:
 
 - Python (version 3.7 or higher)
-- Streamlit (version 0.88.0 or higher)
-- TensorFlow (version 2.6.0 or higher)
-- Keras (version 2.6.0 or higher)
-- NumPy (version 1.19.5 or higher)
-- OpenCV (version 4.5.3 or higher)
-- scikit-learn (version 0.24.2 or higher)
+- Streamlit (version 1.2.0)
+- TensorFlow (version 2.7.0)
+- Keras (version 2.6.0)
+- NumPy (version 1.19.5)
+- OpenCV (version 4.5.4.60)
+- scikit-learn (version 1.0.1)
+- pandas (version 1.3.4)
+- tqdm (version 4.62.3)
+- plotly (version 5.4.0)
+- matplotlib (version 3.5.1)
 
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/your-repo.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Prepare your fashion apparel dataset: Ensure that your dataset is structured appropriately and contains fashion apparel images.
-4. Preprocess the dataset: Run the preprocessing pipeline, which involves resizing images and extracting embeddings using the Xception network.
-5. Dimensionality Reduction: Apply PCA to reduce the dimensionality of the embeddings to 128.
-6. Train the recommendation model: Implement the innovative recommendation algorithm based on image similarity.
-7. Deploy the Fashion Recommendation System: Use the Streamlit app to create an interactive interface for users to receive personalized fashion recommendations.
 
 ## Examples
 
