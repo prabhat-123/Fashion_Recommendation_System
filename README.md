@@ -48,6 +48,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact [your-email@example.com].
+For questions or inquiries, please contact [srv.ale52@gmail.com].
 
-[Optional: Add any additional sections or information relevant to your Fashion Recommendation System.]
